@@ -56,5 +56,5 @@ Contributions to enhance the functionality or improve the design of the calculat
 
 ## Author
 
-Prantik Mukhopadhyay
-https://linkedin.com/prantikm07
+- Prantik Mukhopadhyay
+- https://linkedin.com/prantikm07
